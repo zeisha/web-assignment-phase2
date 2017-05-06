@@ -1,0 +1,61 @@
+#coverimg {
+         position: absolute;
+         width: 100vw;
+         height: 200vh;
+         top: 0;
+         right: 0;
+     }
+
+        #header-style{
+         position: absolute;
+         color: cornsilk;
+
+         top:-5vh;
+         right: 43vw;
+
+         font-size: 8vh;
+
+     }
+
+        #index-style {
+         background-color: cadetblue;
+         position: fixed;
+         top: 70vh;
+         left: 5vw;
+         width: 100vw;
+         height: 12vh;
+         top:0vh;
+         left: 0vw;
+         padding-top: 0vh;
+         margin-left: 0vh;
+     }
+
+        .poster{
+            position: absolute;
+            background-color: darkslategray;
+            width: 600px;
+            height: 1000px;
+            top: 15vh;
+            left: 30vw;
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+        .picture-style{
+            position: absolute;
+            width:65%;
+            height:25%;
+            top:5%;
+            left:15%;
+        }
+        .header{
+            font-weight: bold;
+            position: absolute;
+            top:28%;
+            left:37%;
+            color: white;
+
+        }
+        .main-text{
+            position: absolute;
+            top:35%;
+        }

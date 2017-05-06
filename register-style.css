@@ -1,0 +1,79 @@
+ #coverimg {
+         position: absolute;
+         width: 100vw;
+         height: 400vh;
+         top: 0;
+         right: 0;
+     }
+
+
+         #header-style{
+         position: absolute;
+         color: cornsilk;
+
+         top:-5vh;
+         right: 40vw;
+
+         font-size: 8vh;
+
+     }
+
+     #index-text-style{
+         position: absolute;
+         font-weight: bold;
+         top:20px;
+         left:50px;
+         font-size: 3vh;
+
+     }
+
+     #out-index-text-style{
+         position: absolute;
+         font-weight: bold;
+         top:20px;
+         right:50px;
+         font-size: 3vh;
+     }
+
+     #index-style {
+         background-color: cadetblue;
+         position: fixed;
+         top: 70vh;
+         left: 5vw;
+         width: 100vw;
+         height: 12vh;
+         top:0vh;
+         left: 0vw;
+         padding-top: 0vh;
+         margin-left: 0vh;
+     }
+     #span-style{
+         color: white;
+     }
+
+
+     .text-style{
+         color: black;
+         font-weight: bold;
+
+     }
+
+     #main-div{
+
+
+          background-color: lightgray;
+         position: relative;
+         height: 65vh;
+         width: 100vh;
+
+         top: 30vh;
+
+         padding-top: 0px;
+         padding-left: 20px;
+     }
+
+
+     #form-style{
+         position: inherit;
+         top:25px;
+     }
